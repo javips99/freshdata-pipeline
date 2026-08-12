@@ -16,13 +16,13 @@ Pipeline de procesamiento de ventas diarias para FreshData Corp.
 - Lucía: documentación
 
 ## Estructura
-freshdata-pipeline/
-├── src/
-│   ├── pipeline.py    # Lógica principal
-│   └── config.py      # Configuración
-├── tests/
-│   └── test_pipeline.py
-├── docs/
-│   └── README.md
-└── .gitignore
+    freshdata-pipeline/
+    ├── src/
+    │   ├── pipeline.py    # Lógica principal
+    │   └── config.py      # Configuración
+    ├── tests/
+    │   └── test_pipeline.py
+    ├── docs/
+    │   └── README.md
+    └── .gitignore
 """
