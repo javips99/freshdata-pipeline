@@ -1,4 +1,3 @@
-"""
 # FreshData Pipeline
 
 Pipeline de procesamiento de ventas diarias para FreshData Corp.
