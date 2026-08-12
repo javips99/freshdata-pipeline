@@ -8,7 +8,7 @@ Pipeline de procesamiento de ventas diarias para FreshData Corp.
 - Resumen de ingresos por producto
 
 ## Uso
-python src/pipeline.py
+    python src/pipeline.py
 
 ## Equipo
 - Ana: resumen por producto
